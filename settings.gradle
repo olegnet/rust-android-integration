@@ -1,0 +1,2 @@
+rootProject.name = "Rust integration test"
+include ':app'
